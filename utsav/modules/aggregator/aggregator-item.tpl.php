@@ -24,7 +24,7 @@
   <h3 class="feed-item-title">
     <a href="<?php print $feed_url; ?>"><?php print $feed_title; ?></a>
   </h3>
-
+ 
   <div class="feed-item-meta">
   <?php if ($source_url): ?>
     <a href="<?php print $source_url; ?>" class="feed-item-source"><?php print $source_title; ?></a> -
